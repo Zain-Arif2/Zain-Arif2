@@ -60,15 +60,5 @@
 - 🌱 I’m learning **Next.js** and exploring **backend technologies**
 - 💬 Ask me about **React, Tailwind CSS, or front-end development**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/zain-arif)
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/zain-arif2/zain-arif2/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-</p>
-
-
+  
 ---
