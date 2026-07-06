@@ -67,12 +67,18 @@ ask_me_about: [React, Next.js, Node.js, MongoDB, Express, Redux]
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Zain-Arif2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Zain-Arif2&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" height="165"/>
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=Zain-Arif2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="90%"/>
+</td>
+<td valign="top" width="50%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zain-Arif2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="90%"/>
+</td>
+</tr>
+</table>
 
-<br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zain-Arif2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Zain-Arif2&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" width="45%"/>
 
 </div>
 
